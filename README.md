@@ -15,7 +15,7 @@ Node.js
 ## Passo a Passo
 
 1. Clone este repositório para o seu ambiente local:<br>
-git clone https://github.com/gholiveirac89/chatguru.git
+git clone https://github.com/gholiveirac89/chatguru
 
 2. Navegue até o diretório do projeto
 
