@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "cypress": "^13.12.0"
+  },
+  "name": "chatguru",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gustavo Henrique",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress-file-upload": "^5.0.8"
+  }
+}
